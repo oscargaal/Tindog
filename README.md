@@ -10,7 +10,7 @@ Inspirada en el popular concepto de aplicaciones de citas, TinDog combina una in
 
 ## 🚀 Live Demo
 
-**¡Dale un vistazo a TinDog en acción!** 👉 _En proceso de subirlo_
+**¡Dale un vistazo a TinDog en acción!** 👉 [https://tindog-oscargaal.netlify.app/](https://tindog-oscargaal.netlify.app/)
 
 ---
 
@@ -22,7 +22,7 @@ El diseño de TinDog se centra en la simplicidad y la diversión, con un enfoque
 
 ## 📸 Demo Visual
 
-¡Próximamente una demo visual aquí!
+![Demo en acción](TinDogs.gif)
 
 ---
 
@@ -104,7 +104,7 @@ Para clonar y ejecutar este proyecto en tu máquina local:
 
     ```bash
     git clone https://github.com/oscargaal/Tindog.git
-    cd tindog
+    cd Tindog
     ```
 
 2.  Abre el archivo `index.html` directamente en tu navegador.
