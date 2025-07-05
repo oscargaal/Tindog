@@ -92,7 +92,6 @@ tindog/
 │   └── # Imágenes de perros, iPhone, logos, etc.
 ├── index.html         # Archivo principal de la aplicación
 ├── README.md          # Este archivo
-└── ... (otros archivos si los tienes, como package.json si usas npm)
 
 ```
 
